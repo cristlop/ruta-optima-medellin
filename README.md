@@ -17,16 +17,17 @@ Diseñar un sistema capaz de sugerir rutas más seguras entre dos puntos de Mede
 
 Este proyecto fue desarrollado en Google Colab, pero también puede ejecutarse localmente si se instalan las siguientes dependencias:
 
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-scipy
-Para instalar todo de forma rápida:
+<br>pandas
+<br>numpy
+<br>matplotlib
+<br>seaborn
+<br>scikit-learn
+<br>scipy
 
-pip install -r requirements.txt
-Estructura del Proyecto
+**Para instalar todo de forma rápida:**
+<br>pip install -r requirements.txt
+
+**Estructura del Proyecto**
 
 Carga y preparación del dataset
 Conversión de gravedad de accidentes a costos numéricos
@@ -58,4 +59,4 @@ Scikit-learn documentation: https://scikit-learn.org/stable/
 KDTree (scipy.spatial): https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.KDTree.html
 
 **Autor**
-Cristian López Chaverra
+<br>Cristian López Chaverra
